@@ -1,16 +1,17 @@
-## Hi there 👋
+# AI Tools Reader
 
-<!--
-**aitoolsreader/aitoolsreader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Honest AI tools reviews, comparisons and guides.
 
-Here are some ideas to get you started:
+## 🌐 Website
+[AIToolsReader.com](https://aitoolsreader.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Latest Articles
+- [Gemini AI Review 2026](https://aitoolsreader.com/gemini-ai-review-2026/)
+- [Claude AI Review 2026](https://aitoolsreader.com/claude-ai-review-2026/)
+- [DeepSeek Review 2026](https://aitoolsreader.com/deepseek-review-2026/)
+- [Grok vs ChatGPT 2026](https://aitoolsreader.com/grok-vs-chatgpt-2026/)
+- [Best AI SEO Tools 2026](https://aitoolsreader.com/best-ai-seo-tools-in-2026/)
+- [What is Prompt Engineering](https://aitoolsreader.com/what-is-prompt-engineering/)
+
+## 📧 Contact
+info@aitoolsreader.com
